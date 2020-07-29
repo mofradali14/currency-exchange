@@ -68,3 +68,11 @@ div form {
 	display: block;
 	text-align: center;
 }
+
+p {
+	padding: 3px;
+	background-color: red;
+	border: 3px white solid;
+	font-size: 1.5rem;
+	border-radius: 10px;
+}
