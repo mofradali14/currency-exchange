@@ -24,6 +24,20 @@ h1 {
 	text-shadow: 4px 4px black;
 	letter-spacing: 5px;
 }
+h2 {
+	font-family: monospace;
+	color: rgb(16, 75, 26);
+	text-align: center;
+	font-size: 300%;
+	text-shadow: 1px 1px black;
+	letter-spacing: 5px;
+	margin-top: 10%;
+	border: 4px green solid;
+	border-radius: 10px;
+	background-color: #23d5ab;
+	margin-left: 25%;
+	margin-right: 25%;
+}
 
 p {
 	text-align: center;
@@ -67,6 +81,7 @@ label {
 div form {
 	display: block;
 	text-align: center;
+	margin-top: 10%;
 }
 
 p {
